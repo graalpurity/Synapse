@@ -3,6 +3,7 @@ Synapse is an operating system written in C
 # Requirements
 * Text Editor/IDE
 * Bochs for Windows
+* Watcom
 * ImDisk Virtual Disk Driver
 # Code
 The main source code is in kernel.c

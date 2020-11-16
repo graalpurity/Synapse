@@ -16,7 +16,7 @@ The main source code is in kernel.c
 (This wont appear in the start menu for windows, it'll be in your control panel)
 # ImDisk Virtual Disk Driver Tutorial
 * Click Mount new
-* Select image file, this floppy_image.img in the main directory
+* Select image file, this is floppy_image.img in the main directory
 * Set driver letter to A
 * The rest should auto fill and you can ignore, just click OK
 

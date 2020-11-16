@@ -1,5 +1,5 @@
 # Synapse
-`Synapse` is an operating system written in C
+Synapse is an operating system written in C
 # Requirements
 * Text Editor/IDE
 * Bochs for Windows

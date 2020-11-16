@@ -22,5 +22,5 @@ The main source code is in kernel.c
 # Contributions
 You can create a pull request and I'll review your code and it may be accepted if its something I want to include in the project.
 # Why does Synapse exist?
-I'm developing this to learn C in my spare time
+I'm developing this to learn C in my spare time.
 
